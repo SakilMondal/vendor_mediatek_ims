@@ -1,0 +1,5 @@
+dex_import {
+	name: "mediatek-ims-extension-plugin",
+	owner: "oneplus",
+	jars: ["mediatek-ims-extension-plugin.jar"],
+}
