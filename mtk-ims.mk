@@ -3,8 +3,7 @@ PRODUCT_SOONG_NAMESPACES += \
 
 # Apps
 PRODUCT_PACKAGES += \
-    ImsService \
-	EngineerMode
+    ImsService
 
 # Radio IMS Boot Jar
 PRODUCT_BOOT_JARS += \
