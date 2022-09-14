@@ -1,5 +1,5 @@
 PRODUCT_SOONG_NAMESPACES += \
-    vendor/realme/IMS-RMX3031
+    vendor/realme/IMS-denniz
 
 # Apps
 PRODUCT_PACKAGES += \
